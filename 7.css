@@ -1,0 +1,293 @@
+.pt{
+
+    background-color: rgb(20, 86, 185);
+    position: fixed;
+    width: 100%; 
+    }
+    .a{
+    text-align: center;
+    
+    }
+    .student{
+        
+        padding-top: 15px;
+        padding-left: 50px;
+        padding-right: 40px;
+        padding-bottom: 40px;
+        width: 350px;
+    border-top: 4px solid blue;
+    position: relative;
+    left: 10px;
+    border-radius: 5px;
+    border-left: 1px  solid rgba(0, 0, 0, 0.315);
+    border-right: 1px  solid rgba(0, 0, 0, 0.315);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+    height: 70px;
+    
+    
+    }
+    .c{
+        position: relative;
+        left:270px;
+        bottom: 65px;
+        font-size: large;
+        color: blue;
+       font
+    }
+    .d{
+        position: relative;
+        left:280px;
+        bottom: 70px;
+        padding-top: 10px;
+    }
+    
+    
+    
+    
+    
+    .employee{
+        
+        padding-top: 15px;
+        padding-left: 50px;
+        padding-right: 40px;
+        padding-bottom: 40px;
+        width: 350px;
+       
+    border-top: 4px solid rgb(255, 174, 0);
+    position: relative;
+    left: 490px;
+    bottom: 90px;
+    border-radius: 5px;
+    border-left: 1px  solid rgba(0, 0, 0, 0.315);
+    border-right: 1px  solid rgba(0, 0, 0, 0.315);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+    height: 70px;
+    
+    
+    }
+    .empc{
+        position: relative;
+        left:270px;
+        bottom: 65px;
+        font-size: large;
+        color: blue;
+       font
+    }
+    .empd{
+        position: relative;
+        left:280px;
+        bottom: 70px;
+        padding-top: 10px;
+    }
+    
+    
+    
+    
+    .parent{
+        
+        padding-top: 15px;
+        padding-left: 50px;
+        padding-right: 40px;
+        padding-bottom: 40px;
+        width: 350px;
+       background-color: white;
+    border-top: 4px solid rgb(21, 160, 107);
+    position: relative;
+    left: 970px;
+    bottom: 180px;
+    border-radius: 5px;
+    border-left: 1px  solid rgba(0, 0, 0, 0.315);
+    border-right: 1px  solid rgba(0, 0, 0, 0.315);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+    height: 70px;
+    
+    
+    }
+    .pc{
+        position: relative;
+        left:270px;
+        bottom: 65px;
+        font-size: large;
+        color: blue;
+       font
+    }
+    .pd{
+        position: relative;
+        left:280px;
+        bottom: 70px;
+        padding-top: 10px;
+    }
+    
+    
+    
+    .Alumni{
+        
+        padding-top: 15px;
+        padding-left: 50px;
+        padding-right: 40px;
+        padding-bottom: 40px;
+        width: 350px;
+       background-color: white;
+    border-top: 4px solid rgba(16, 202, 235, 0.884);
+    position: relative;
+    left: 1450px;
+    bottom: 270px;
+    border-radius: 5px;
+    border-left: 1px  solid rgba(0, 0, 0, 0.315);
+    border-right: 1px  solid rgba(0, 0, 0, 0.315);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+    height: 70px;
+    
+    
+    }
+    .ac{
+        position: relative;
+        left:270px;
+        bottom: 65px;
+        font-size: large;
+        color: blue;
+       font
+    }
+    .ad{
+        position: relative;
+        left:280px;
+        bottom: 70px;
+        padding-top: 10px;
+    }
+    
+    
+    .stats{
+        padding-left: 10px;
+        padding-top: 5px;
+        padding-right: 20px;
+        width:900px;
+        font-size: medium ;
+        color: brown;
+        border-radius: 5px ;
+        border-top: 5px solid brown ;
+        border-left: 1px  solid rgba(0, 0, 0, 0.315);
+        border-right: 1px  solid rgba(0, 0, 0, 0.315);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+        position: relative;
+        left:10px;
+        bottom: 250px;
+        text-align: left;
+        
+    }
+    
+    .s1{
+    padding-top: 10px;
+    padding-left: 20px;
+    
+    color: black;
+    border-bottom: 1px solid rgb(48, 47, 47);
+    text-align: left;
+    }
+    .s12{
+        position: relative;
+        left:30px;
+        bottom: 30px;
+    }
+    .s2{
+        padding-top: 10px;
+        padding-left: 20px;
+        color: black;
+        border-bottom: 1px solid rgb(48, 47, 47);
+        }
+        .s22{
+            position: relative;
+            left:30px;
+            bottom: 30px;
+        }
+    
+    .s3{
+    padding-top: 10px;
+    padding-left: 20px;
+    color: black;
+    border-bottom: 1px solid rgb(48, 47, 47);
+    }
+            .s32{
+                position: relative;
+                left:30px;
+                bottom: 30px;
+            }
+    .s4{
+    padding-top: 10px;
+    padding-left: 20px;
+    color: black;
+    border-bottom: 1px solid rgb(48, 47, 47);
+    }
+                .s42{
+                    position: relative;
+                    left:30px;
+                    bottom: 30px;
+                }
+    .s5{
+         padding-top: 10px;
+         padding-left: 20px;
+        color: black;
+     
+     }
+                    .s52{
+                        position: relative;
+                        left:30px;
+                        bottom: 30px;
+                    }
+    
+                    
+     .spot{
+    
+        padding-left: 10px;
+        padding-top: 5px;
+        padding-right: 20px;
+        width:900px;
+        font-size: small ;
+        color: brown;
+        border-radius: 5px ;
+        border-top: 5px solid brown ;
+        border-left: 1px  solid rgba(0, 0, 0, 0.315);
+        border-right: 1px  solid rgba(0, 0, 0, 0.315);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.315);
+        position: relative;
+        left:960px;
+        bottom: 615px;
+        text-align: left;
+     }               
+    
+     .spot1{
+    
+        padding-top: 10px;
+        padding-left: 20px;
+        color: black;
+        border-bottom: 1px solid rgb(48, 47, 47);
+     }
+         .spot12{
+            position: relative;
+            left:30px;
+            bottom: 30px;
+         }
+    
+         .spot2{
+    
+            padding-top: 10px;
+            padding-left: 20px;
+            color: black;
+            border-bottom: 1px solid rgb(48, 47, 47);
+         }
+             .spot22{
+                position: relative;
+                left:30px;
+                bottom: 30px;
+             }    
+             .spot3{
+    
+                padding-top: 10px;
+                padding-left: 20px;
+                color: black;
+                
+             }
+                 .spot32{
+                    position: relative;
+                    left:30px;
+                    bottom: 30px;
+                 }
